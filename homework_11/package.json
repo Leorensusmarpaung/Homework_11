@@ -1,0 +1,20 @@
+{
+  "name": "homework_11",
+  "version": "1.0.0",
+  "description": "SauceDemo POM Testing",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^147.0.0",
+    "mocha": "^11.7.5",
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0",
+    "selenium-webdriver": "^4.43.0"
+  }
+}
